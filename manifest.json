@@ -1,0 +1,10 @@
+{
+    "name": "Open Schoology",
+    "description": "A basic Google Chrome extension to open Schoology.",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action" : {
+        "default_popup": "schoology.html",
+        "default_icon": "schoology.png"
+    }
+}
