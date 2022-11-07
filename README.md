@@ -17,4 +17,4 @@ Download it from GitHub Releases tab, extract the .zip file, go to the Chrome Ex
 
 ### Notice
 - After installing the extension using the Zip Method, there is a chance that it will say there is an error, this is false, please disregard that.
-- CRX Method doesn't work, as I don't have access to the web store
+- CRX Method doesn't work as of now, because I don't have access to the web store yet, I will work on getting access.
