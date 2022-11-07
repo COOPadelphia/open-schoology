@@ -16,5 +16,5 @@ Download the CRX file from the GitHub Releases tab, go to the Chrome Extensions 
 Download it from GitHub Releases tab, extract the .zip file, go to the Chrome Extensions page, enable developer mode, Load Unpacked, go to the extracted zip file, and click on the root directory of which the files of the extension are stored, and click Open Folder.
 
 ### Notice
-- After installing the extension using the Zip Method, it might say there is an error, this is false, please disregard that.
+- After installing the extension using the Zip Method, there is a chance that it will say there is an error, this is false, please disregard that.
 - CRX Method doesn't work, as I don't have access to the web store
