@@ -6,7 +6,7 @@ A basic Google Chrome extension to open Schoology.
 ---
 
 ## What is it?
-It is a basic Google Chrome Extensiond, build in HTML 5, and CSS 3, it was made in 5 minutes, very sloppy and rushed, and I wil be trying to make it more visually appealing, and more efficient to use, in the future.
+It is a basic Google Chrome Extension, build in HTML 5, and CSS 3, it was made in 5 minutes, and very sloppy and rushed. I wil be trying to make it more visually appealing, and more efficient to use, in the near future.
 
 
 ### How to install
